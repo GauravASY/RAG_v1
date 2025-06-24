@@ -51,7 +51,7 @@ def chat(message, history):
         
     else : 
         split_docs = load_document(message['files'])
-        print("Splitting done!")
+        print("Processing Done!")
        
         if message['text'] == "" :
             yield "PDF uploaded successfully" 
