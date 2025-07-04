@@ -1,4 +1,4 @@
-# A multimodal RAG 
+# A Chat-with-PDF RAG 
 A local Retrieval-Augmented Generation (RAG) assistant that answers questions based strictly on the content of uploaded PDF documents. Powered by LangChain, Pinecone, Ollama, and Gradio.
 ----
 ## Features
